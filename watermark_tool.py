@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# !D:\Wkx\VibeCoding\WKXPhotoWaterMark
 # -*- coding: utf-8 -*-
 """
 Image Watermark Tool
